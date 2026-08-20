@@ -1,12 +1,5 @@
 # Airbnb-Inspired Full-Stack Web Application 🚀
 
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/Rakhisan">
-  <img src="https://profile-counter.glitch.me/Airbnb--Project/count.svg" />
-  </a>
-</p>
 
 ---
 
@@ -18,14 +11,12 @@
 -   [Challenges & Solutions](#challenges--solutions)
 -   [Special Thanks](#special-thanks)
 -   [Author](#author)
--   [Project Link](#project-link)
 -   [Thank You](#thank-you)
 
 
 ## Project Overview
 
-Excited to share my journey of developing a feature-rich full-stack web application inspired by Airbnb. The project is built using MongoDB, Express.js, and Node.js.
-
+A full-stack web application inspired by Airbnb that allows users to explore, create, edit, and review property listings. The application includes authentication, image uploads, interactive maps, reviews, and account management.
 ## Technologies & Packages Used
 
 ### Backend
@@ -95,17 +86,15 @@ Encountered challenges, especially with data handling, but implemented efficient
 
 ## Special Thanks
 
-A heartfelt thank you to Shradha Khapra didi and AMAN DHATTARWAL bhaiya at #ApnaCollege for their invaluable support and collaboration. As mentors and teachers, your guidance has been instrumental in shaping the success of this project. Your dedication to fostering learning and innovation has made a lasting impact, and I'm grateful for the opportunity to learn and grow under your mentorship.
-
+Special thanks to my teachers and mentors for their guidance and support throughout the development of this project. I would also like to acknowledge the learning resources and open-source documentation that helped me understand and implement the technologies used in this application.
 ## Author
 
-Rakhi Singh \
+Mohak Sharma \
 Email: sharmamohak186@gmail.com \
 LinkedIn : https://www.linkedin.com/in/mohak-sharma-2a6a94407/
 
 ## Thank You
 
-Thank you for exploring Airbnb! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
-
+Thank you for exploring this project! Your feedback and suggestions are always appreciated.
 ---
 ### Thanks for visit... 😊😊😊
