@@ -100,8 +100,8 @@ A heartfelt thank you to Shradha Khapra didi and AMAN DHATTARWAL bhaiya at #Apna
 ## Author
 
 Rakhi Singh \
-Email: rakhisingh030118@gmail.com \
-LinkedIn : https://www.linkedin.com/in/rakhisingh23/
+Email: sharmamohak186@gmail.com \
+LinkedIn : https://www.linkedin.com/in/mohak-sharma-2a6a94407/
 
 ## Thank You
 
